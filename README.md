@@ -1,11 +1,10 @@
-# 🎵 Song Recommendation System
+#Song Recommendation System
 
-## 📌 Project Description
+#Project Description
 This project implements a content-based music recommendation system using TF-IDF Vectorization and Cosine Similarity. It recommends songs similar to a selected song without using user ratings.
 
----
 
-## 📂 Project Structure
+#Project Structure
 Song-Recommendation-System/
 │
 ├── data/
